@@ -1,0 +1,19 @@
+.form {
+  padding: 20px;
+  border: 1px solid black;
+  width: 400px;
+  display: inline-block;
+}
+.form-label {
+  display: grid;
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 20px;
+  width: 60px;
+}
+.form-input {
+  border: 1px solid rgb(197, 189, 189);
+  background-color: transparent;
+  border-radius: 4px;
+  padding: 5px 10px;
+}
